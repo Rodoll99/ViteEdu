@@ -1,3 +1,4 @@
+// 코드스타일을 통일하는데에 도움을 주는 폴더
 import js from '@eslint/js'
 import globals from 'globals'
 import react from 'eslint-plugin-react'
